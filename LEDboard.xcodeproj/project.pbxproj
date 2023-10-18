@@ -16,6 +16,7 @@
 		545AAF292ADAC733007CBE52 /* LEDboardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 545AAF282ADAC733007CBE52 /* LEDboardTests.swift */; };
 		545AAF332ADAC733007CBE52 /* LEDboardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 545AAF322ADAC733007CBE52 /* LEDboardUITests.swift */; };
 		545AAF352ADAC733007CBE52 /* LEDboardUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 545AAF342ADAC733007CBE52 /* LEDboardUITestsLaunchTests.swift */; };
+		54914D0C2AE027DD0080AA7C /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54914D0B2AE027DD0080AA7C /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		545AAF2E2ADAC733007CBE52 /* LEDboardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LEDboardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		545AAF322ADAC733007CBE52 /* LEDboardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LEDboardUITests.swift; sourceTree = "<group>"; };
 		545AAF342ADAC733007CBE52 /* LEDboardUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LEDboardUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		54914D0B2AE027DD0080AA7C /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				545AAF132ADAC731007CBE52 /* SceneDelegate.swift */,
 				545AAF152ADAC731007CBE52 /* ViewController.swift */,
 				545AAF172ADAC731007CBE52 /* Main.storyboard */,
+				54914D0B2AE027DD0080AA7C /* SettingViewController.swift */,
 				545AAF1A2ADAC733007CBE52 /* Assets.xcassets */,
 				545AAF1C2ADAC733007CBE52 /* LaunchScreen.storyboard */,
 				545AAF1F2ADAC733007CBE52 /* Info.plist */,
@@ -261,6 +264,7 @@
 				545AAF162ADAC731007CBE52 /* ViewController.swift in Sources */,
 				545AAF122ADAC731007CBE52 /* AppDelegate.swift in Sources */,
 				545AAF142ADAC731007CBE52 /* SceneDelegate.swift in Sources */,
+				54914D0C2AE027DD0080AA7C /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
